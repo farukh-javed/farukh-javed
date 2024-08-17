@@ -1,6 +1,4 @@
-<p align="center" style="font-size: 88px; font-weight: bold; margin: 0;">
-  Hi there 👋, I'm Farukh!
-</p>
+<h1 align="center">Hi there 👋, I'm Farukh!</h1>
 
 ### 🌟 About Me
 - 🔭 **AI Engineer Intern**: Exploring the world of AI.
