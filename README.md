@@ -1,12 +1,19 @@
-## Hi 👋, I'm Farukh!
+## Hi there 👋, I'm Farukh!
 
-- 🔭 I’m currently diving deep into the world of AI as an **AI Engineer Intern**.
-- 💻 **Web Scraping Enthusiast**: I love turning the web into a treasure trove of data using Python, BeautifulSoup, and Selenium.
-- 🌱 **Always Learning**: Currently sharpening my skills in AI/ML with tools like LLMs, LangChain, Django, and FastAPI.
-- 💬 **Let's Chat**: Whether it's about Python, web scraping, or the fascinating world of AI, I'm always up for a conversation!
-- 📫 **Reach Me**: [Your Email or LinkedIn Profile Link]
+- 🔭 **Currently Exploring AI**: I'm diving deep into the world of AI as an **AI Engineer Intern**.
+- 💻 **Web Scraping Expert**: Passionate about transforming the web into valuable data using Python, BeautifulSoup, and Selenium.
+- 🌱 **Always Learning**: Currently enhancing my skills with AI/ML technologies, including LLMs, LangChain, Django, and FastAPI.
+- 💬 **Let's Connect**: Interested in discussing Python, web scraping, or AI? Feel free to reach out!
+- 📫 **Reach Out**: [Your Email] or [LinkedIn Profile](https://www.linkedin.com/in/YourLinkedInProfile)
 - 😄 **Pronouns**: He/Him
-- ⚡ **Fun Fact**: I’m always on the lookout for new technologies to explore and innovative solutions to bring to life.
+- ⚡ **Fun Fact**: I’m constantly exploring new technologies and finding innovative solutions.
 
-### 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FarukhJaved-blue)](https://www.linkedin.com/in/YourLinkedInProfile)
+### 🚀 Connect with Me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FarukhJaved-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YourLinkedInProfile)
+
+### 📊 My GitHub Stats:
+
+![Farukh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=farukh-javed&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=merko)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farukh-javed&layout=compact&theme=merko)
