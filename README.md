@@ -1,4 +1,4 @@
-<p align="center" style="font-size: 2em; font-weight: bold;">
+<p align="center" style="font-size: 36px; font-weight: bold; margin: 0;">
   Hi there 👋, I'm Farukh!
 </p>
 
