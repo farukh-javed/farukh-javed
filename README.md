@@ -5,11 +5,10 @@
 - 💻 **Web Scraping Enthusiast**: Passionate about extracting valuable data using Python.
 - 🌱 **Learning**: Enhancing skills in AI/ML, LLMs, LangChain, Django, and FastAPI.
 - 💬 **Let’s Connect**: Reach out to discuss Python, web scraping, or AI.
-- 📫 **Contact**: https://www.linkedin.com/in/farukh-javed
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/yourusername) to send a direct message!
+- 📫 **Contact**: [LinkedIn](https://www.linkedin.com/in/farukh-javed)
 
 ### 🚀 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FarukhJaved-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YourLinkedInProfile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FarukhJaved-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/farukh-javed)
 
 ### 📊 My GitHub Stats:
 ![Farukh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=farukh-javed&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=merko)
@@ -31,4 +30,5 @@
 <!--
 ### 🌟 Featured Projects:
 - [**Anomaly Detection System**](https://github.com/farukh-javed/Anomaly-Detection-System-with-ML.git)
- [**Project 2**](https://github.com/farukh-javed/project2): Brief description of Project 2.-->
+- [**Project 2**](https://github.com/farukh-javed/project2): Brief description of Project 2.
+-->
