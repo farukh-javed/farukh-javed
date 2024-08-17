@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Farukh!
+                                                          ## Hi there 👋, I'm Farukh!
 
 ### 🌟 About Me
 - 🔭 **AI Engineer Intern**: Exploring the world of AI.
@@ -31,5 +31,5 @@
 ---
 
 ### 🌟 Featured Projects:
-- [**Project 1**](https://github.com/farukh-javed/project1): Brief description of Project 1.
-- [**Project 2**](https://github.com/farukh-javed/project2): Brief description of Project 2.
+- [**Anomaly Detection System**](https://github.com/farukh-javed/): Brief description of Project 1.
+<!-- [**Project 2**](https://github.com/farukh-javed/project2): Brief description of Project 2.-->
