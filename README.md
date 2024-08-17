@@ -1,6 +1,5 @@
-<!-- Centered Heading -->
-<p align="center">
-  <b>##Hi there 👋, I'm Farukh!</b>
+<p align="center" style="font-size: 2em; font-weight: bold;">
+  Hi there 👋, I'm Farukh!
 </p>
 
 ### 🌟 About Me
