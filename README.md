@@ -2,7 +2,7 @@
 
 ### 🌟 About Me
 
-- 🔭 **AI Engineer Intern**: Learning about AI and working on cool projects.
+- 🔭 Learning about AI and working on cool projects.
   
 - 💻 **Web Scraping Fan**: Using Python to gather and analyze useful data.
   
