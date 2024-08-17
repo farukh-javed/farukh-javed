@@ -6,6 +6,7 @@
 - 🌱 **Learning**: Enhancing skills in AI/ML, LLMs, LangChain, Django, and FastAPI.
 - 💬 **Let’s Connect**: Reach out to discuss Python, web scraping, or AI.
 - 📫 **Contact**: https://www.linkedin.com/in/farukh-javed
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/yourusername) to send a direct message!
 
 ### 🚀 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FarukhJaved-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YourLinkedInProfile)
