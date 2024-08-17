@@ -15,11 +15,11 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farukh-javed&layout=compact&theme=merko)
 
 ### 🛠️ Tools & Technologies:
-![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi)
-![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-009879?style=for-the-badge&logo=beautifulsoup)
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium)
+![Python](https://img.shields.io/badge/-Python-306998?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-7F9CF5?style=for-the-badge&logo=beautifulsoup&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 ### 🎯 Goals:
 - Improve skills in **AI/ML** and **Data Engineering**.
