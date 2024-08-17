@@ -21,6 +21,9 @@
 ![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-7F9CF5?style=for-the-badge&logo=beautifulsoup&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
+### 📈 Profile Views:
+![Profile Views](https://img.shields.io/badge/Views-0-blue?style=for-the-badge&logo=github&logoColor=white)
+
 ### 🎯 Goals:
 - Improve skills in **AI/ML** and **Data Engineering**.
 - Contribute to open-source projects.
