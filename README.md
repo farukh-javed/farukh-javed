@@ -1,8 +1,6 @@
 <h2 align="center">Hi there 👋, I'm Farukh!</h2>
 
-### 🌟 About Me
-
-- 🔭 Learning about AI and working on cool projects.
+- ⚡ I'm currentl learning about AI and working on cool projects.
   
 - 💻 Using Python to gather and analyze useful data.
   
