@@ -1,13 +1,11 @@
-<h1 align="center">Hi there 👋, I'm Farukh!</h1>
+<h2 align="center">Hi there 👋, I'm Farukh!</h2>
 
 ### 🌟 About Me
 - 🔭 **AI Engineer Intern**: Exploring the world of AI.
 - 💻 **Web Scraping Enthusiast**: Passionate about extracting valuable data using Python.
 - 🌱 **Learning**: Enhancing skills in AI/ML, LLMs, LangChain, Django, and FastAPI.
 - 💬 **Let’s Connect**: Reach out to discuss Python, web scraping, or AI.
-- 📫 **Contact**: [Your Email] or [LinkedIn Profile](https://www.linkedin.com/in/YourLinkedInProfile)
-- 😄 **Pronouns**: He/Him
-- ⚡ **Fun Fact**: Always exploring new technologies and finding innovative solutions.
+- 📫 **Contact**: https://www.linkedin.com/in/farukh-javed
 
 ### 🚀 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FarukhJaved-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YourLinkedInProfile)
@@ -29,7 +27,7 @@
 - Continuously learn and adapt to new technologies.
 
 ---
-
+<!--
 ### 🌟 Featured Projects:
 - [**Anomaly Detection System**](https://github.com/farukh-javed/Anomaly-Detection-System-with-ML.git)
-<!-- [**Project 2**](https://github.com/farukh-javed/project2): Brief description of Project 2.-->
+ [**Project 2**](https://github.com/farukh-javed/project2): Brief description of Project 2.-->
