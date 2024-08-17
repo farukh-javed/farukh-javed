@@ -2,12 +2,14 @@
 
 ### 🌟 About Me
 - 🔭 **AI Engineer Intern**: Exploring the world of AI.
+  
 - 💻 **Web Scraping Enthusiast**: Passionate about extracting valuable data using Python.
+  
 - 🌱 **Learning**: Enhancing skills in AI/ML, LLMs, LangChain, Django, and FastAPI.
-- 💬 **Let’s Connect**: Reach out to discuss Python, web scraping, or AI.
+  
 - 📫 **Contact**: [LinkedIn](https://www.linkedin.com/in/farukh-javed)
 
-### 🚀 Connect with Me:
+### 💬 Let’s Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FarukhJaved-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/farukh-javed)
 
 ### 📊 My GitHub Stats:
