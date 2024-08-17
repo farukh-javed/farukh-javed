@@ -24,7 +24,7 @@
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 ### 📈 Profile Views:
-![Profile Views](https://img.shields.io/badge/Views-0-blue?style=for-the-badge&logo=github&logoColor=white)
+![Profile Views](https://img.shields.io/badge/Views-89-blue?style=for-the-badge&logo=github&logoColor=white)
 
 ### 🎯 Goals:
 - Improve skills in **AI/ML** and **Data Engineering**.
