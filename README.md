@@ -1,6 +1,6 @@
 <!-- Centered Heading -->
 <p align="center">
-  <b>Hi there 👋, I'm Farukh!</b>
+  <b>##Hi there 👋, I'm Farukh!</b>
 </p>
 
 ### 🌟 About Me
