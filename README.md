@@ -1,10 +1,10 @@
 <h2 align="center">Hi there 👋, I'm Farukh!</h2>
 
-- 🚀 I'm on an exciting journey into AI, working on creative and groundbreaking projects!
+- 🚀 Exploring AI and working on creative projects!
 
-- 💻 Mastering Python to harness data’s potential for valuable insights.
+- 💻 Using Python to turn data into valuable insights.
 
-- 🌟 Quickly learning more about AI, LLMs, LangChain, Django, and FastAPI for amazing new solutions!
+- 🌟 Learning AI, LLMs, LangChain, Django, and FastAPI for cutting-edge solutions!
 
 ### 💬 Let’s Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FarukhJaved-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/farukh-javed)
