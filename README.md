@@ -12,6 +12,7 @@
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-7F9CF5?style=for-the-badge&logo=beautifulsoup&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-007ACC?style=for-the-badge&logo=python&logoColor=white)
 
   ### 💬 Let’s Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FarukhJaved-teal?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/farukh-javed)
