@@ -6,8 +6,8 @@
 
 - 🌟 *Learning AI, LLMs, LangChain, Django, and FastAPI for cutting-edge solutions!*
 
-### 💬 Let’s Connect:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FarukhJaved-teal?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/farukh-javed)
+  ### 📈 Profile Views:
+![Profile Views](https://img.shields.io/badge/Views-89-blue?style=for-the-badge&logo=github&logoColor=white)
 
 ### 📊 My GitHub Stats:
 <!--![Farukh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=farukh-javed&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=merko)-->
@@ -20,13 +20,13 @@
 ![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-7F9CF5?style=for-the-badge&logo=beautifulsoup&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
-### 📈 Profile Views:
-![Profile Views](https://img.shields.io/badge/Views-89-blue?style=for-the-badge&logo=github&logoColor=white)
-
 ### 🎯 Goals:
 - Improve skills in **AI/ML** and **Data Engineering**.
 - Contribute to open-source projects.
 - Continuously learn and adapt to new technologies.
+
+  ### 💬 Let’s Connect:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FarukhJaved-teal?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/farukh-javed)
 
 ---
 <!--
