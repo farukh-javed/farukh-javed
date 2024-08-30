@@ -1,4 +1,4 @@
-<h2 align="center">Hi there 👋, I'm Farukh!</h2>
+<h2 align="center">Hi👋, I'm Farukh!</h2>
 
 - 🚀 *Exploring AI and working on creative projects!*
 
@@ -7,7 +7,7 @@
 - 🌟 *Learning AI, LLMs, LangChain, Django, and FastAPI for cutting-edge solutions!*
 
 ### 💬 Let’s Connect:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FarukhJaved-darkblue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/farukh-javed)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FarukhJaved-navyblue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/farukh-javed)
 
 ### 📊 My GitHub Stats:
 <!--![Farukh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=farukh-javed&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=merko)-->
