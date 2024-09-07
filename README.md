@@ -1,10 +1,6 @@
-<p align="right">
-    <svg width="500" height="70" xmlns="http://www.w3.org/2000/svg">
-        <text x="10" y="20" font="bold 18px Georgia" fill="#FF5733">Farukh Javed</text> <!-- Orange -->
-        <text x="10" y="40" font="bold 18px Georgia" fill="#33FF57">AI Enthusiast | Software Engineer</text> <!-- Green -->
-        <text x="10" y="60" font="bold 18px Georgia" fill="#3357FF">Deep Learning | Generative AI | LangChain</text> <!-- Blue -->
-    </svg>
-</p>
+<a href="https://github.com/farukh-javed">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Farukh+Javed;AI+Enthusiast+%7C+Software+Engineer;Deep+Learning+%7C+Generative+AI+%7C+LangChain&color=00FF00" alt="Typing SVG" />
+</a>
 
 - 🚀 **Pushing the boundaries of AI with innovative projects.**
 - 🌟 **Mastering AI, LLMs, and Leading-edge technologies.**
