@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/farukh-javed">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=5&multiline=true&width=500&height=80&lines=Farukh+Javed;AI+Enthusiast+%7C+Software+Engineer;Deep+Learning+%7C+Generative+AI+%7C+LangChain" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=5&multiline=true&width=500&height=80&lines=Farukh+Javed;AI+Enthusiast+%7C+Software+Engineer;Deep+Learning+%7C+Generative+AI+%7C+LangChain&color=FF5733" alt="Typing SVG" />
 </a>
 </p>
 
