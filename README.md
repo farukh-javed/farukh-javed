@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/farukh-javed">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=5&multiline=true&width=500&height=80&lines=Farukh+Javed;AI+Enthusiast+%7C+Software+Engineer;Deep+Learning+%7C+Generative+AI+%7C+LangChain&color=B0E0E6" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=5&multiline=true&width=500&height=80&lines=Farukh+Javed;AI+Enthusiast+%7C+Software+Engineer;Deep+Learning+%7C+Generative+AI+%7C+LangChain" alt="Typing SVG" />
 </a>
 </p>
 
@@ -13,6 +13,15 @@
 </div>
 </p>
 
+### 🌐 Connect with Me:
+<p align="center">
+    <a href="https://www.linkedin.com/in/farukh-javed">
+        <img src="https://img.shields.io/badge/LinkedIn-FarukhJaved-teal?style=flat&logo=linkedin">
+    </a>
+    <a href="mailto:farukhjaved666@gmail.com">
+        <img src="https://img.shields.io/badge/Email-@gmail.com-red?style=flat&logo=gmail&logoColor=white">
+    </a>
+</p>
 
 ### 🛠️ Tools & Technologies:
 <p>
@@ -28,16 +37,6 @@
     <img src="https://img.shields.io/badge/-FAISS-00B2A9?style=flat&logo=faiss&logoColor=white">
     <img src="https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white">
     <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white">
-</p>
-
-### 🌐 Connect with Me:
-<p align="center">
-    <a href="https://www.linkedin.com/in/farukh-javed">
-        <img src="https://img.shields.io/badge/LinkedIn-FarukhJaved-teal?style=flat&logo=linkedin">
-    </a>
-    <a href="mailto:farukhjaved666@gmail.com">
-        <img src="https://img.shields.io/badge/Email-@gmail.com-red?style=flat&logo=gmail&logoColor=white">
-    </a>
 </p>
 
 ### 🌟 Featured Projects
