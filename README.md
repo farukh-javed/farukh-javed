@@ -1,6 +1,8 @@
+<p align="right">
 <a href="https://github.com/farukh-javed">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Farukh+Javed;AI+Enthusiast+%7C+Software+Engineer;Deep+Learning+%7C+Generative+AI+%7C+LangChain&color=00FF00" alt="Typing SVG" />
 </a>
+</p>
 
 - 🚀 **Pushing the boundaries of AI with innovative projects.**
 - 🌟 **Mastering AI, LLMs, and Leading-edge technologies.**
