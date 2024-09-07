@@ -1,5 +1,3 @@
-<h2 align="center"></h2>
-
 <p align="right">
     <svg width="500" height="70" xmlns="http://www.w3.org/2000/svg">
     <style>
@@ -76,6 +74,3 @@
         <img src="https://img.shields.io/badge/Web%20Scrapping%20-%20Django%20%26%20Selenium-red?style=flat&logo=web&logoColor=white" alt="Web Scrapping with Django">
     </a>
 </p>
-
----
----
