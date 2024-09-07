@@ -4,8 +4,6 @@
 </a>
 </p>
 
-- 🚀 **Pushing the boundaries of AI with innovative projects.**
-- 🌟 **Mastering AI, LLMs, and Leading-edge technologies.**
 ### 🛠️ Tools & Technologies:
 <p>
     <img src="https://img.shields.io/badge/-Python-306998?style=flat&logo=python&logoColor=white">
