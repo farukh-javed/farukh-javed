@@ -4,6 +4,16 @@
 </a>
 </p>
 
+### 📊 My GitHub Stats:
+<p align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farukh-javed&theme=2077" alt="Profile Details">
+    <div style="display: flex; gap: 10px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=farukh-javed&theme=2077" alt="Programming Languages" style="width: 48%;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=farukh-javed&theme=2077" alt="Stats" style="width: 48%;">
+</div>
+</p>
+
+
 ### 🛠️ Tools & Technologies:
 <p>
     <img src="https://img.shields.io/badge/-Python-306998?style=flat&logo=python&logoColor=white">
@@ -18,15 +28,6 @@
     <img src="https://img.shields.io/badge/-FAISS-00B2A9?style=flat&logo=faiss&logoColor=white">
     <img src="https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white">
     <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white">
-</p>
-
-### 📊 My GitHub Stats:
-<p align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farukh-javed&theme=2077" alt="Profile Details">
-    <div style="display: flex; gap: 10px;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=farukh-javed&theme=2077" alt="Programming Languages" style="width: 48%;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=farukh-javed&theme=2077" alt="Stats" style="width: 48%;">
-</div>
 </p>
 
 ### 🌐 Connect with Me:
