@@ -6,11 +6,11 @@
 
 ### 📊 My GitHub Stats:
 <p align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farukh-javed&theme=2077" alt="Profile Details">
     <div style="display: flex; gap: 10px;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=farukh-javed&theme=2077" alt="Programming Languages" style="width: 48%;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=farukh-javed&theme=2077" alt="Stats" style="width: 48%;">
-</div>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=farukh-javed&theme=2077" alt="Programming Languages"             style="width: 48%;">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=farukh-javed&theme=2077" alt="Stats" style="width: 48%;">
+    </div>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farukh-javed&theme=2077" alt="Profile Details" alt="Stats" style="width: 97%;">
 </p>
 
 ### 🌐 Connect with Me:
