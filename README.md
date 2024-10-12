@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" >
 <a href="https://github.com/farukh-javed">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=75&lines=Farukh+Javed;AI+Enthusiast+%7C+Computer+Scientist;Deep+Learning+%7C+Generative+AI+%7C+LangChain;LangChain" alt="Typing SVG"/>
 </a>
